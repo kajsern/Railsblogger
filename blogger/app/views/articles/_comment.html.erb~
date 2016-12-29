@@ -1,0 +1,7 @@
+<div>
+  <p class="comment">
+    <%= comment.author_name %> says:</br>
+  
+    <%= comment.body %>
+  </p>
+</div>
